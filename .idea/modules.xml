@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/client.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/client.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/client.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/client.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/client.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/client.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/client.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/client.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transfer_api/client.transfer_api.iml" filepath="$PROJECT_DIR$/.idea/modules/transfer_api/client.transfer_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transfer_api/client.transfer_api.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/transfer_api/client.transfer_api.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transfer_api/client.transfer_api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/transfer_api/client.transfer_api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/transfer_api/client.transfer_api.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/transfer_api/client.transfer_api.unitTest.iml" />
+    </modules>
+  </component>
+</project>
